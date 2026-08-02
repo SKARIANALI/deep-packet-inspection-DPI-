@@ -1,1 +1,1 @@
-RUN - java -cp java\out Main --ui
+Run - java -cp java\out Main --ui
