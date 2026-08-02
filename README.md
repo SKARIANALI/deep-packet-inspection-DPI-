@@ -1,1 +1,1 @@
-# deep-packet-inspection-DPI-
+RUN - java -cp java\out Main --ui
